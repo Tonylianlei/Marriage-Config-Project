@@ -21,3 +21,4 @@ eureka:
       defaultZone: ${eureka.instance.hostname}/eureka/
     registry-fetch-interval-seconds: 30
     fetch-registry: true
+
